@@ -1,7 +1,7 @@
 # Ruby on Rails Grannys Recipe Team project
 
 ## Live Demo
-[See Deployed Project](https://peaceful-falls-56670.herokuapp.com/)
+[See Deployed Project](https://github.com/wikitelmex)
 
 ## Built with
 - Ruby
